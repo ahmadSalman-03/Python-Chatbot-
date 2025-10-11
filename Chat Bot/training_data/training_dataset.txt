@@ -1,0 +1,172 @@
+USER: Hello
+CHATBOT: Hello! I'm Wall-E, your digital payment assistant. How can I help you with transactions today?
+
+USER: Hi
+CHATBOT: Hi there! I'm Wall-E, ready to assist you with payments, security, and wallet services. What do you need help with?
+
+USER: Thank you
+CHATBOT: You're welcome! Happy to help with your payment needs.
+
+USER: Thanks for your help
+CHATBOT: Glad I could assist! Let me know if you need anything else with Wall-E.
+
+USER: Goodbye
+CHATBOT: Goodbye! Feel free to reach out if you need help with payments or transactions. Have a great day!
+
+USER: Okay bye
+CHATBOT: Goodbye! Feel free to reach out if you need help. Have a great day!
+
+USER: Bye
+CHATBOT: See you later! Remember, I'm always here to help with your Wall-E wallet and payment questions.
+
+USER: What can you do?
+CHATBOT: I can help you with app navigation, guide you through transactions, reset PINs, and explain any Wall-E features you need.
+
+USER: What is offline transaction?
+CHATBOT: Offline transactions allow you to make payments without internet connectivity using QR code technology. When you scan a merchant's QR code, the transaction details are stored locally on your device and automatically sync with our servers when you regain internet connection. This feature is particularly useful in areas with poor network coverage or during network outages.
+
+USER: How do I send money to someone?
+CHATBOT: To send money through Wall-E, navigate to home screen and press the 'Send Money' section, enter the recipient's registered phone number, specify the amount you wish to transfer, and authenticate using your PIN or biometric verification. You can choose between instant online transfer or offline QR-based transfer depending on your network availability.
+
+USER: The person i am trying to send money to is not showing in the send money list.
+CHATBOT: This may happen due to user not registered in the application, or they maynot have an account.
+
+USER: The person i am trying to send money to is not showing in the send money list.
+CHATBOT: This may happen due to network issue. Try to connect to a better network.
+
+USER: Is Wall-E secure for financial transactions?
+CHATBOT: Wall-E employs multiple security layers including end-to-end AES-256 encryption, biometric authentication, and secure PIN protection. All transactions are monitored 24/7, and we use KYC(Know Your Customer) protocols to ensure your money and personal information remain protected against unauthorized access.
+
+
+USER: How does QR code payment work?
+CHATBOT: QR code payments work by generating a unique encrypted code that contains transaction information. When you scan a merchant's or receiver's QR code, your device reads the payment details, then you confirm the amount and authenticate. For offline transactions, the payment data is stored securely and processed.
+
+USER: What rewards can I earn with Wall-E?
+CHATBOT: Wall-E's reward system provides you with coins for every transaction completed through the platform. These reward coins can be redeemed for various benefits including discounts at partner merchants, mobile top-up bonuses, bill payment discounts, and exclusive vouchers from our retail partners.
+
+USER: How can I check my wallet balance?
+CHATBOT: Your current wallet balance is displayed on the main dashboard when you open the Wall-E application. For detailed transaction history and balance breakdown, you can access the 'Transaction History' section which shows all your incoming and outgoing payments with timestamps and recipient details.
+
+USER: I need to see my transaction history.
+CHATBOT: Navigate to History section to see all of your previous performed transactions.
+
+USER: I need to update my email.
+CHATBOT: Go to Account and there you will find option to update email, provide your new email and verify by getting an OTP on your email after which your email will be updated.
+
+USER: How can i update my email?
+CHATBOT: Go to Account and there you will find option to update email, provide your new email and verify by getting an OTP on your email after which your email will be updated.
+
+USER: I need to update my number.
+CHATBOT: You can go to the Account and then to profile management where you can change your number. First enter the old number on which you will recevie an OTP that you need to enter then you can change your number.
+
+USER: How do i update my number?
+CHATBOT: You can go to the Account and then to profile management where you can change your number. First enter the old number on which you will recevie an OTP that you need to enter then you can change your number.
+
+USER: Can I transfer money without internet?
+CHATBOT: Yes, Wall-E's offline transfer feature enables you to send money without active internet connection. This is achieved through QR code technology where the transaction is initiated offline and the trasnaction is performed.
+
+USER: How do I add money to my Wall-E wallet?
+CHATBOT: You can add funds to your Wall-E wallet through multiple methods: bank account transfers, debit/credit card payments, cash deposits at authorized agents, or through partner banking locations. Each method has different processing times and may involve minimal processing fees depending on the amount.
+
+USER: How do I reset my PIN if I forget it?
+CHATBOT: If you've forgotten your PIN, you can reset it through the 'Forgot PIN' option on the login screen. This will require identity verification through registered biometric data or OTP verification sent to your registered mobile number. For security reasons, PIN resets may take up some time to process.
+
+USER: Are there any transaction fees?
+CHATBOT: Wall-E charges minimal transaction fees based on the transfer amount and type. Standard peer-to-peer transfers are free for the first 10 transactions per month, while merchant payments and utility bill payments may involve nominal processing fees. Detailed fee structure is available in the app's help section.
+
+USER: I’m unable to verify my biometrics for PIN reset.
+CHATBOT: That can happen if your fingerprint or face scan doesn’t match the registered data. Try again in proper lighting or clean your fingerprint sensor. Then try again.
+
+USER: I didn’t receive an OTP for resetting my PIN.
+CHATBOT: Please check your network connection and ensure your mobile number is the same one registered with Wall-E. If the OTP still doesn’t arrive within a few minutes, tap Resend OTP or contact support through Settings → Help Center.
+
+USER: My offline transaction failed. What should I do?
+CHATBOT: If your transaction failed, check your wallet balance and network status. You can also open Transaction History → Failed Transactions for details. If money was deducted but not received, Wall-E will automatically refund within 24 hours.
+
+USER: What is this Offline Wallet?
+CHATBOT: This is the wallet used for QR code based payments. You need to refill it while you are still connected to the internet through your online wallet.
+
+USER: How do i fill my offline wallet?
+CHATBOT: You need to refill offline while you are still connected to the internet through your online wallet,you can simpliy transfer money from your online to offline wallet or vice versa.
+
+USER: I want to check my balance.
+CHATBOT: To view your balance, tap the Wallet Balance section on the home screen. It will show your total available amount.
+
+USER: How can I add money to my wallet?
+CHATBOT: You can add money via linked bank account or debit card. Tap Add Money, select the payment source, enter the amount, and confirm the transfer.
+
+USER: How can I add funds to my wallet?
+CHATBOT: You can add money via linked bank account or debit card. Tap Add Money, select the payment source, enter the amount, and confirm the transfer.
+
+USER: I need to add funds to my wallet.
+CHATBOT: You can add money via linked bank account or debit card. Tap Add Money, select the payment source, enter the amount, and confirm the transfer.
+
+USER: I need to add money to my wallet.
+CHATBOT: You can add money via linked bank account or debit card. Tap Add Money, select the payment source, enter the amount, and confirm the transfer.
+
+USER: What’s the difference between online and offline transactions?
+CHATBOT: Online transactions require internet connectivity and are processed instantly. Offline transactions use encrypted local storage and does not require internet connectivity to perform transactions.
+
+USER: How do I switch to offline mode?
+CHATBOT: In offline mode you don't require internet so you can go tap the "send money offline" on the dashboard and it will allow you to sacn the QR code for offline transaction.
+
+USER: Is offline mode safe?
+CHATBOT: Yes. Wall-E uses AES-256 encryption to secure all offline data. Your transaction details are stored locally and encrypted.
+
+USER: Where can I find my recent transactions?
+CHATBOT: Tap on History at the bottom navigation bar. You’ll see all your recent transactions with status filters like Completed, Pending, or Failed.
+
+USER: I can’t find where to change my profile picture.
+CHATBOT: Go to Profile → Edit Profile, then tap on the picture icon to upload or capture a new photo.
+
+USER: How secure is my data in Wall-E?
+CHATBOT: Wall-E uses AES-256 encryption and secure API authentication. All sensitive data, including transactions and user credentials, are encrypted both in transit and at rest.
+USER: Is wall e secure?
+CHATBOT: Wall-E uses AES-256 encryption and secure API authentication. All sensitive data, including transactions and user credentials, are encrypted both in transit and at rest.
+
+USER: My transaction history isn’t updating.
+CHATBOT: Sometimes updates are delayed during high traffic. Try refreshing manually by swiping down on the History screen or reconnecting to the internet.
+
+USER: Thanks for the help!
+CHATBOT: You’re very welcome Always happy to help you with your Wall-E wallet!
+
+USER: Are you a human?
+CHATBOT: Not quite — I’m your Wall-E virtual assistant, designed to make your app experience easy and secure.
+
+
+USER: Hi, I think I’m having trouble sending money to my friend.
+CHATBOT: Hey there No worries! I can help you with that. Could you tell me what kind of issue you’re facing — is the transaction failing or not going through at all?
+
+USER: It says “transaction pending” even after a few minutes.
+CHATBOT: Got it. That usually happens when you’re using Offline Mode or if your internet connection drops mid-transaction. Once your phone reconnects, Wall-E will automatically process it.
+
+USER: Oh, I was offline earlier. Will it send automatically now?
+CHATBOT: Yes as soon as your phone connects to the internet, Wall-E will sync the pending transaction securely. You’ll get a confirmation notification once it’s complete.
+
+USER: What if my phone never connects again?
+CHATBOT: Then the transaction will remain pending for 24 hours. After that, it’ll automatically cancel and refund the amount back to your wallet. You can also cancel it manually in Transaction History → Pending.
+
+USER: Okay, thanks! Also, I forgot my PIN. How can I reset it?
+CHATBOT: No problem! On the login screen, tap Forgot PIN. You’ll be asked to verify your identity through biometric scan or OTP on your registered number. Once verified, you can set a new PIN instantly.
+
+USER: My fingerprint sensor isn’t working right now.
+CHATBOT: In that case, use your PIN. Enter it to reset your PIN securely.
+
+USER: ok.Thnank you for your help.
+CHATBOT: Glad I could assist! Let me know if you need anything else.
+
+USER: Is it safe to do all this while I’m offline?
+CHATBOT: For security reasons, PIN resets and verifications require an internet connection. Offline transactions are only allowed for payments — not sensitive operations like PIN or password resets.
+
+USER: Got it. How can I check if my payment actually went through?
+CHATBOT: Tap History → Completed Transactions. You’ll see your recent payments, along with their status and time. You can also tap any entry for more details like amount, receiver ID, and transaction ID.
+
+USER: Nice. Can I cancel a payment if I make a mistake?
+CHATBOT: You can cancel it only while it’s in Pending status. Once it’s marked Completed, it can’t be reversed. Always double-check the receiver ID before confirming a transaction.
+
+USER: That makes sense. Also, where do I find the dark mode option?
+CHATBOT: Go to Settings → Themes, and select Dark Mode 🌙. It helps save battery and is easier on your eyes at night.
+
+USER: Perfect, thank you! You’re very helpful.
+CHATBOT: You’re most welcome, I’m here anytime you need help with your Wall-E wallet.
+

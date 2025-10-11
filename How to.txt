@@ -1,0 +1,26 @@
+GO in Chat bot folder
+run these:
+ python -m venv venv 
+
+ venv\Scripts\activate
+
+ python -m pip install --upgrade pip
+
+ pip install fastapi==0.104.1 uvicorn==0.24.0 pymongo==4.5.0
+
+ pip install setuptools wheel
+
+ pip install numpy scikit-learn python-dotenv requests nltk --prefer-binary
+
+ pip install fastapi uvicorn pymongo transformers sentence-transformers spacy --prefer-binary
+
+ python -m spacy download en_core_web_sm
+
+After that:
+"python run.py" in terminal
+
+after that wait for the training to start and complete then paste "http://localhost:8000/docs"
+
+open it go to "chat/ Chat Endpoint"
+in message:"string"
+remove string and add the question or any statement related to the Chatbot. Press try it out. and the result is given below.
